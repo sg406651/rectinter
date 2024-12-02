@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: rectinter
+Version: 0.1
+Summary: Finding pairwise rectangles intersections
+Author: Stanislaw Grodzki
+Author-email: <sg406651@students.mimuw.edu.pl>
+Keywords: python,rectangle,intersection
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE

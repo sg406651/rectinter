@@ -15,5 +15,7 @@ The simplest way to install **rectinter** is to use the `git` command-line tool.
 
 ```bash
 git clone https://github.com/sg406651/rectinter.git
+```
 
+# **Performance**
 ![Time performance of the rectinter compared to naive approach using pairwise comparison](time_complexity_new.png)
